@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-<<<<<<< HEAD
 #This the scripts code
 =======
 # script that sets up web servers for the deployment of web_static
